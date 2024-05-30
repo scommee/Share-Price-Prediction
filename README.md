@@ -21,4 +21,4 @@ Modern ML techniques show superiority over traditional methods in share price pr
 Future research could focus on integrating sentiment analysis from social media data, incorporating macroeconomic indicators, and extending prediction horizons. Additionally, exploring advanced natural language processing techniques and analyzing individual company reports could enhance model accuracy and robustness.
 
 ## Contact 
-If anyone experiences any issues with the code feel free to contact me at shauncommee@hotmail.co.uk
+For any questions or issues, please contact [Shaun Commee](mailto:shauncommee@hotmail.co.uk).
