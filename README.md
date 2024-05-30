@@ -3,6 +3,8 @@
 ## Overview
 This project aims to assess literature on share price prediction, exploring various forecasting techniques and their performance. It involves building and evaluating machine learning models discussed in the literature, employing feature engineering, and adjusting hyperparameters to improve predictive accuracy. The goal is to visualize model performance and provide insights on predictive capabilities.
 
+This project was programmed in Python and requires installation of the various packages that are detailed in the code provided in the repository.
+
 ## Literature Review
 Modern machine learning (ML) methods outperform traditional forecasting techniques significantly. Techniques like SVR, Random Forest, and Linear Regression perform well over short prediction periods, while LSTM and Stateful LSTM excel over longer periods. Linear Regression emerges as the best-performing model due to strong linearity in predictor-target relationships.
 
@@ -17,3 +19,6 @@ Modern ML techniques show superiority over traditional methods in share price pr
 
 ## Recommendations for Future Research
 Future research could focus on integrating sentiment analysis from social media data, incorporating macroeconomic indicators, and extending prediction horizons. Additionally, exploring advanced natural language processing techniques and analyzing individual company reports could enhance model accuracy and robustness.
+
+## Contact 
+If anyone experiences any issues with the code feel free to contact me at shauncommee@hotmail.co.uk
